@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239590603251",
+    "firebase_url": "https://androidfirebasedbrealtim-84f14.firebaseio.com",
+    "project_id": "androidfirebasedbrealtim-84f14",
+    "storage_bucket": "androidfirebasedbrealtim-84f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239590603251:android:cac185e5dbd68cd2",
+        "android_client_info": {
+          "package_name": "com.example.ugo.androidfirebasedbrealtimenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239590603251-5vdl7q4p4khahmt154ctnlrdugjmpe4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ugo.androidfirebasedbrealtimenew",
+            "certificate_hash": "9b2ee9f117be14dbabb2982dd531b159646c0ebb"
+          }
+        },
+        {
+          "client_id": "239590603251-0k0qjr6cnqgtt3q29le0vovbrcpv65oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcP0ZYGPjXlUVDHWLqHgITQ0lYIE9ly-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239590603251-0k0qjr6cnqgtt3q29le0vovbrcpv65oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
